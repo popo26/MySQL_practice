@@ -1,0 +1,7 @@
+1) Please list out the exact steps to export a database from MySQL using the CLI.
+
+2) Please list out the exact steps to import a database from MySQL using the CLI.
+
+3) Please list out the exact steps to export a database from MySQL using MySQL Workbench.
+
+4) Please list out the exact steps to import a database from MySQL using MySQL Workbench.
